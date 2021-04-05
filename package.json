@@ -1,0 +1,24 @@
+{
+  "name": "smartdeploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hs2310/smart_application_deployment.git"
+  },
+  "keywords": [],
+  "author": "Harshil, Deepen, Aayush, Narain ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hs2310/smart_application_deployment/issues"
+  },
+  "homepage": "https://github.com/hs2310/smart_application_deployment#readme",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
